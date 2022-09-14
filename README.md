@@ -15,4 +15,6 @@ The **most up-to-date syllabus** is available [here](./syllabus/MARN5061_Syllabu
 | 2022-09-01    | Lecture 2: Continuum hypothesis, Eulerian and Lagragian viewpoints      |           |
 | 2022-09-08    | Lecture 3: Mass and momentum conservation |      |
 | 2022-09-13    | Lecture 4: Equations of motion in a rotating planet |  | 
-| 2022-09-15    | Lecture 5: Tangent plane approximations | E. 2.3 | 
+| 2022-09-15    | Lecture 5: Tangent plane approximations | E 2.3 | 
+| 2022-09-20    | Lecture 6: Scaling and the boussinesq approximation | E 2.5, 3.1 | 
+| 2022-09-22    | Lecture 7: Hydrostatic and geostrophic approximations | E 3.2-3.5 | 
