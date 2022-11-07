@@ -21,5 +21,22 @@ The **most up-to-date syllabus** is available [here](./syllabus/MARN5061_Syllabu
 | 2022-09-27    | Lecture 8: More on geostrophy | E 3.5 |
 | 2022-09-29    | Lecture 9: Ekman dynamic and surface Ekman layer | E 5.7 |
 | 2022-10-04    | Lecture 10: Ekman transport and pumping | E 5.7 |
-| 2022-09-06    | Lecture 11: Introduction to ocean gyres and Sverdrup relation | E 14.1-14.2 |
-
+| 2022-10-06    | Lecture 11: Introduction to ocean gyres and the Sverdrup balance | E 14.1-14.2 |
+| 2022-10-11    | Lecture 12: More on Sverdrup relationship and balance | E 14.2-14.3 |
+| 2022-10-13    | Lecture 13:  The Stommel model | E 14.3 |
+| 2022-10-18    | Lecture 14:  The Munk model | E  14.3 |
+| 2022-10-20    | Lecture 15:  Introduction to thermocline and MOC dynamics | E 15.1-15.2 |
+| 2022-10-25    | Lecture 16:  Diffusive and advective scales for the thermocline | E 15.3 |
+| 2022-10-27    | Lecture 17:  The Stommel & Aarons model of abyssal circulation| E 15.4 |
+| 2022-11-01    | Lecture 18:  Wind-driven interhemispheric MOC | E 15.5 |
+| 2022-11-03    | Lecture 19:  Shallow-water model and introduction to shallow water waves| E 4.1-4.3|
+| 2022-11-08    | Lecture 20:  Shallow-water waves and shallow-water potential vorticity | E 4.2-4.3 |
+| 2022-11-10    | Lecture 21:  Quasi-gesotrophic scaling in shallow-water theory | E 5.1-5.2 |
+| 2022-11-15    | Lecture 22:  Rossby waves | E 6.1-6.3 |
+| 2022-11-17    | Lecture 23:  Barotropic and baroclinic instability | E 8.1-8.7 |
+| 2022-11-22    | No lecture | Happy turkey day! |
+| 2022-11-24    | No lecture | Happy turkey day! |
+| 2022-11-29    | Quiet week: students work on their final assignment | Cesar will be in the classroom and on Webex |
+| 2022-12-01    | Quiet week: students work on their final assignment | Cesar will be in the classroom and on Webex |
+| 2022-11-06    | Student presentations | 25-minute talk + 5-10 minutes for comments and questions |
+| 2022-12-08    | Student presentations | 25-minute talk + 5-10 minutes for comments and questions |
