@@ -34,9 +34,9 @@ The **most up-to-date syllabus** is available [here](./syllabus/MARN5061_Syllabu
 | 2022-11-10    | Lecture 21:  Quasi-gesotrophic scaling in shallow-water theory | E 5.1-5.2 |
 | 2022-11-15    | Lecture 22:  Rossby waves | E 6.1-6.3 |
 | 2022-11-17    | Lecture 23:  Barotropic and baroclinic instability | E 8.1-8.7 |
-| 2022-11-22    | No lecture | Happy turkey day! |
+| 2022-11-22    | No lecture | Thanksgiving recess |
 | 2022-11-24    | No lecture | Happy turkey day! |
-| 2022-11-29    | Quiet week: students work on their final assignment | Cesar will be in the classroom and on Webex |
-| 2022-12-01    | Quiet week: students work on their final assignment | Cesar will be in the classroom and on Webex |
+| 2022-11-29    | Quiet day: students work on their final assignment | Cesar will be in the classroom and on Webex |
+| 2022-12-01    | Quiet day: students work on their final assignment | Cesar will be in the classroom and on Webex |
 | 2022-11-06    | Student presentations | 25-minute talk + 5-10 minutes for comments and questions |
 | 2022-12-08    | Student presentations | 25-minute talk + 5-10 minutes for comments and questions |
