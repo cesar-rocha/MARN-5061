@@ -19,7 +19,7 @@ The **most up-to-date syllabus** is available [here](./syllabus/MARN5061_Syllabu
 | 2022-09-20    | Lecture 6: Scaling and the boussinesq approximation | E 2.5, 3.1 | 
 | 2022-09-22    | Lecture 7: Hydrostatic and geostrophic approximations | E 3.2-3.5 | 
 | 2022-09-27    | Lecture 8: More on geostrophy | E 3.5 |
-| 2022-09-29    | Lecture 9: Ekman dynamic and surface Ekman layer | E 5.7 |
+| 2022-09-29    | Lecture 9: Ekman dynamics and surface Ekman layer | E 5.7 |
 | 2022-10-04    | Lecture 10: Ekman transport and pumping | E 5.7 |
 | 2022-10-06    | Lecture 11: Introduction to ocean gyres and the Sverdrup balance | E 14.1-14.2 |
 | 2022-10-11    | Lecture 12: More on Sverdrup relationship and balance | E 14.2-14.3 |
