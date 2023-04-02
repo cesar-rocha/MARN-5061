@@ -2,7 +2,7 @@
 Course number: MARN-5061</br>
 Department of Marine Sciences</br>
 University of Connecticut</br>
-Instructor: [Cesar B Rocha](www.cbrocha.com)
+Instructor: [Cesar B Rocha](cesar-rocha.github.io)
 
 The **most up-to-date syllabus** is available [here](./syllabus/MARN5061_SyllabusFall2022.pdf).
 
