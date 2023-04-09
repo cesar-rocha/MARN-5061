@@ -27,7 +27,7 @@ The **most up-to-date syllabus** is available [here](./syllabus/MARN5061_Syllabu
 | 2022-10-18    | Lecture 14:  The Munk model | E  14.3 |
 | 2022-10-20    | Lecture 15:  Introduction to thermocline and MOC dynamics | E 15.1-15.2 |
 | 2022-10-25    | Lecture 16:  Diffusive and advective scales for the thermocline | E 15.3 |
-| 2022-10-27    | Lecture 17:  The Stommel & Aarons model of abyssal circulation| E 15.4 |
+| 2022-10-27    | Lecture 17:  The Stommel & Arons model of abyssal circulation| E 15.4 |
 | 2022-11-01    | Lecture 18:  Wind-driven interhemispheric MOC | E 15.5 |
 | 2022-11-03    | Lecture 19:  Shallow-water model and introduction to shallow water waves| E 4.1-4.3|
 | 2022-11-08    | Lecture 20:  Shallow-water waves and shallow-water potential vorticity | E 4.2-4.3 |
